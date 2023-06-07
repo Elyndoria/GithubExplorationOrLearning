@@ -1,0 +1,63 @@
+﻿
+body {
+    background-color: lightblue;
+}
+h1 {
+    margin-left: 15px;
+    display: block;
+    background-color: blueviolet;
+    width: 250px;
+    padding: 15px;
+
+}
+
+
+
+.label1 {
+    padding: 15px;
+}
+
+.contact-data {
+    width: 20%;
+    padding: 12px 20px;
+    margin:10px;
+}
+
+.select {
+    width: 20%;
+    padding: 12px 20px;
+    margin: 10px;
+}
+
+.select option {
+    padding: 12px;
+}
+
+.textarea {
+    width: 20%;
+    padding: 12px 20px;
+    height: 120px;
+    margin: 10px;
+}
+
+.submit {
+    margin: 13px;
+    padding: 15px 35px;
+}
+
+
+.checkbox {
+    margin-left: 15px;
+}
+
+img {
+    position: fixed;
+    float:right;
+    right:2%;
+    top:10px;
+    border-style: solid;
+    border-color: black;
+    border-width: 4px;
+    width: 70%;
+    
+}
